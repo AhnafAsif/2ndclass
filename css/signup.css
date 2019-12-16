@@ -1,0 +1,45 @@
+body{
+    background: url(../img/sea.jpg);
+	
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+	
+	background-position: center;
+}
+a{
+	color: black;
+}
+.container{
+	width: 633px;
+	
+	margin: 0 auto;
+    
+}
+.signup-section{
+
+	background-color:#607d8b78;
+
+	padding: 42px;
+}
+.signup-section h2{
+
+}
+.signup-section p{
+
+}
+.form-control{
+	width: 91%;
+	padding: 14px;
+	margin: 8px;
+}
+.form_control{
+ 	width: 12%;
+}
+.btn{
+	
+
+}
+.btn:hover{
+
+}
